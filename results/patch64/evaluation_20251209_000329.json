@@ -1,0 +1,191 @@
+{
+  "num_images": 20,
+  "average_psnr_before": 10.25977120778286,
+  "average_ssim_before": 0.4035768792033195,
+  "average_psnr_after": 12.882092791680233,
+  "average_ssim_after": 0.4880122743546963,
+  "average_psnr_improvement": 2.6223215838973726,
+  "average_ssim_improvement": 0.08443539515137673,
+  "per_image_results": [
+    {
+      "filename": "099.jpeg",
+      "psnr_before": 8.754973644370121,
+      "ssim_before": 0.39203107357025146,
+      "psnr_after": 10.782126873783756,
+      "ssim_after": 0.41408294439315796,
+      "psnr_improvement": 2.027153229413635,
+      "ssim_improvement": 0.022051870822906494
+    },
+    {
+      "filename": "095.jpeg",
+      "psnr_before": 11.815138335915085,
+      "ssim_before": 0.7766056060791016,
+      "psnr_after": 12.572069917905146,
+      "ssim_after": 0.7950479984283447,
+      "psnr_improvement": 0.7569315819900613,
+      "ssim_improvement": 0.018442392349243164
+    },
+    {
+      "filename": "094.jpeg",
+      "psnr_before": 11.841076792575699,
+      "ssim_before": 0.48856082558631897,
+      "psnr_after": 13.237679527627805,
+      "ssim_after": 0.5115772485733032,
+      "psnr_improvement": 1.396602735052106,
+      "ssim_improvement": 0.023016422986984253
+    },
+    {
+      "filename": "098.jpeg",
+      "psnr_before": 8.370855452234526,
+      "ssim_before": 0.3152717649936676,
+      "psnr_after": 10.39368493174074,
+      "ssim_after": 0.35239601135253906,
+      "psnr_improvement": 2.022829479506214,
+      "ssim_improvement": 0.03712424635887146
+    },
+    {
+      "filename": "050.jpeg",
+      "psnr_before": 9.769810299076616,
+      "ssim_before": 0.23780332505702972,
+      "psnr_after": 12.826441515539761,
+      "ssim_after": 0.2931765019893646,
+      "psnr_improvement": 3.0566312164631455,
+      "ssim_improvement": 0.0553731769323349
+    },
+    {
+      "filename": "046.jpeg",
+      "psnr_before": 12.227694129410962,
+      "ssim_before": 0.622556746006012,
+      "psnr_after": 20.457370761991797,
+      "ssim_after": 0.7507758140563965,
+      "psnr_improvement": 8.229676632580835,
+      "ssim_improvement": 0.12821906805038452
+    },
+    {
+      "filename": "093.jpeg",
+      "psnr_before": 10.39379841491771,
+      "ssim_before": 0.7431321144104004,
+      "psnr_after": 11.833213884983426,
+      "ssim_after": 0.7552393674850464,
+      "psnr_improvement": 1.4394154700657165,
+      "ssim_improvement": 0.012107253074645996
+    },
+    {
+      "filename": "0101.jpeg",
+      "psnr_before": 8.27099900268232,
+      "ssim_before": 0.24773134291172028,
+      "psnr_after": 10.359793999856892,
+      "ssim_after": 0.2873864471912384,
+      "psnr_improvement": 2.0887949971745723,
+      "ssim_improvement": 0.03965510427951813
+    },
+    {
+      "filename": "0100.jpeg",
+      "psnr_before": 8.712730591650843,
+      "ssim_before": 0.3528066873550415,
+      "psnr_after": 10.31742026721142,
+      "ssim_after": 0.3557697534561157,
+      "psnr_improvement": 1.6046896755605768,
+      "ssim_improvement": 0.0029630661010742188
+    },
+    {
+      "filename": "047.jpeg",
+      "psnr_before": 10.302256264270095,
+      "ssim_before": 0.2917211353778839,
+      "psnr_after": 12.322238564270894,
+      "ssim_after": 0.34021130204200745,
+      "psnr_improvement": 2.019982300000798,
+      "ssim_improvement": 0.048490166664123535
+    },
+    {
+      "filename": "051.jpeg",
+      "psnr_before": 11.11316080044553,
+      "ssim_before": 0.2223086953163147,
+      "psnr_after": 13.942035923424266,
+      "ssim_after": 0.2343442440032959,
+      "psnr_improvement": 2.8288751229787366,
+      "ssim_improvement": 0.012035548686981201
+    },
+    {
+      "filename": "044.jpeg",
+      "psnr_before": 10.604254435626189,
+      "ssim_before": 0.48737913370132446,
+      "psnr_after": 15.395253592732539,
+      "ssim_after": 0.8316540122032166,
+      "psnr_improvement": 4.79099915710635,
+      "ssim_improvement": 0.3442748785018921
+    },
+    {
+      "filename": "048.jpeg",
+      "psnr_before": 10.60122692140612,
+      "ssim_before": 0.3276790678501129,
+      "psnr_after": 12.753271830080187,
+      "ssim_after": 0.44467785954475403,
+      "psnr_improvement": 2.1520449086740676,
+      "ssim_improvement": 0.11699879169464111
+    },
+    {
+      "filename": "0102.jpeg",
+      "psnr_before": 10.02582806645703,
+      "ssim_before": 0.21218806505203247,
+      "psnr_after": 11.384523478728434,
+      "ssim_after": 0.21795450150966644,
+      "psnr_improvement": 1.3586954122714037,
+      "ssim_improvement": 0.005766436457633972
+    },
+    {
+      "filename": "049.jpeg",
+      "psnr_before": 10.754442963848373,
+      "ssim_before": 0.3279399275779724,
+      "psnr_after": 11.927620009922226,
+      "ssim_after": 0.39461249113082886,
+      "psnr_improvement": 1.173177046073853,
+      "ssim_improvement": 0.06667256355285645
+    },
+    {
+      "filename": "045.jpeg",
+      "psnr_before": 10.447675689253607,
+      "ssim_before": 0.2624496817588806,
+      "psnr_after": 13.159521133491324,
+      "ssim_after": 0.39190399646759033,
+      "psnr_improvement": 2.711845444237717,
+      "ssim_improvement": 0.12945431470870972
+    },
+    {
+      "filename": "097.jpeg",
+      "psnr_before": 12.916396621814519,
+      "ssim_before": 0.7288545370101929,
+      "psnr_after": 14.393048000976592,
+      "ssim_after": 0.7655670642852783,
+      "psnr_improvement": 1.4766513791620728,
+      "ssim_improvement": 0.03671252727508545
+    },
+    {
+      "filename": "042.jpeg",
+      "psnr_before": 9.36183492231987,
+      "ssim_before": 0.40696385502815247,
+      "psnr_after": 14.785211458256702,
+      "ssim_after": 0.7925868034362793,
+      "psnr_improvement": 5.423376535936832,
+      "ssim_improvement": 0.38562294840812683
+    },
+    {
+      "filename": "043.jpeg",
+      "psnr_before": 9.926375211824483,
+      "ssim_before": 0.3042789101600647,
+      "psnr_after": 14.725068794210888,
+      "ssim_after": 0.4744723439216614,
+      "psnr_improvement": 4.798693582386404,
+      "ssim_improvement": 0.17019343376159668
+    },
+    {
+      "filename": "096.jpeg",
+      "psnr_before": 8.984895595557505,
+      "ssim_before": 0.323275089263916,
+      "psnr_after": 10.074261366869857,
+      "ssim_after": 0.35680878162384033,
+      "psnr_improvement": 1.0893657713123517,
+      "ssim_improvement": 0.033533692359924316
+    }
+  ]
+}

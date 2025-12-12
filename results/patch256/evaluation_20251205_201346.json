@@ -1,0 +1,56 @@
+{
+  "num_images": 5,
+  "average_psnr_before": 11.465557513953947,
+  "average_ssim_before": 0.4188061714172363,
+  "average_psnr_after": 11.470800386195426,
+  "average_ssim_after": 0.42128841280937196,
+  "average_psnr_improvement": 0.005242872241480257,
+  "average_ssim_improvement": 0.00248224139213562,
+  "per_image_results": [
+    {
+      "filename": "001.jpeg",
+      "psnr_before": 10.738422847257834,
+      "ssim_before": 0.19159391522407532,
+      "psnr_after": 10.746030292695735,
+      "ssim_after": 0.1934542953968048,
+      "psnr_improvement": 0.007607445437901816,
+      "ssim_improvement": 0.0018603801727294922
+    },
+    {
+      "filename": "005.jpeg",
+      "psnr_before": 16.284293516972767,
+      "ssim_before": 0.6983295679092407,
+      "psnr_after": 16.285965333969802,
+      "ssim_after": 0.6999542713165283,
+      "psnr_improvement": 0.0016718169970353358,
+      "ssim_improvement": 0.0016247034072875977
+    },
+    {
+      "filename": "004.jpeg",
+      "psnr_before": 9.507899227997967,
+      "ssim_before": 0.5502966046333313,
+      "psnr_after": 9.512559528476759,
+      "ssim_after": 0.5532073378562927,
+      "psnr_improvement": 0.0046603004787915125,
+      "ssim_improvement": 0.0029107332229614258
+    },
+    {
+      "filename": "003.jpeg",
+      "psnr_before": 11.654154581409582,
+      "ssim_before": 0.3579300045967102,
+      "psnr_after": 11.66051885735529,
+      "ssim_after": 0.35984259843826294,
+      "psnr_improvement": 0.006364275945708542,
+      "ssim_improvement": 0.0019125938415527344
+    },
+    {
+      "filename": "002.jpeg",
+      "psnr_before": 9.143017396131576,
+      "ssim_before": 0.2958807647228241,
+      "psnr_after": 9.14892791847954,
+      "ssim_after": 0.29998356103897095,
+      "psnr_improvement": 0.005910522347964076,
+      "ssim_improvement": 0.004102796316146851
+    }
+  ]
+}
